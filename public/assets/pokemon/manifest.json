@@ -1,0 +1,295 @@
+{
+  "format": "pokecatan-assets",
+  "version": 1,
+  "generatedBy": "scripts/fetch-assets.mjs",
+  "source": {
+    "repository": "https://github.com/PMDCollab/SpriteCollab",
+    "portraits": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait",
+    "license": "CC BY-NC 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "licenseFile": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/LICENSE.md"
+  },
+  "licenseSha256": "284233a8bc62ac54d878552845ef66ab94b25112e6fc8f902fcdfa6149748c31",
+  "pokemon": [
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "file": "assets/pokemon/1.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0001/Normal.png",
+      "bytes": 1679,
+      "sha256": "65fa5e2a0e655aff61e6b1bac0b4d8aab3d72496a7f0609761e3e9977ab8fa96"
+    },
+    {
+      "id": 2,
+      "name": "Ivysaur",
+      "file": "assets/pokemon/2.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0002/Normal.png",
+      "bytes": 1812,
+      "sha256": "9ed265687bfa0f543605bc80d923ab637d3c36808d56965ef6677e1a53416377"
+    },
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "file": "assets/pokemon/3.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0003/Normal.png",
+      "bytes": 1647,
+      "sha256": "ad837a186afb8399c9c2a1ac832dc77256709e832d71851e2ebade2497daf191"
+    },
+    {
+      "id": 4,
+      "name": "Charmander",
+      "file": "assets/pokemon/4.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0004/Normal.png",
+      "bytes": 1111,
+      "sha256": "19ece460b8336a72fba5c8615ee1746bb70aa357fd3d9dd5500cbb54cf7109f5"
+    },
+    {
+      "id": 5,
+      "name": "Charmeleon",
+      "file": "assets/pokemon/5.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0005/Normal.png",
+      "bytes": 553,
+      "sha256": "8420abc5ed79d9c7bd2be9072671afd38c5141a3876d1bc4a63e237b2cdd437d"
+    },
+    {
+      "id": 6,
+      "name": "Charizard",
+      "file": "assets/pokemon/6.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0006/Normal.png",
+      "bytes": 1397,
+      "sha256": "0f35ef09a0a2fbc6d9187bcb270954b30aa2dbb51c2f13f21ed9ce648f67a591"
+    },
+    {
+      "id": 10,
+      "name": "Caterpie",
+      "file": "assets/pokemon/10.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0010/Normal.png",
+      "bytes": 1923,
+      "sha256": "8c06969fb305e6c9e37095f34f8d99079ca1fa77a4e22a43b4a59faa83d71d43"
+    },
+    {
+      "id": 11,
+      "name": "Metapod",
+      "file": "assets/pokemon/11.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0011/Normal.png",
+      "bytes": 1484,
+      "sha256": "2df60c5f0f2114131e502aec7a8ccd2d36ea7efa7ffef5a54c1dbb5bf6a9b6dc"
+    },
+    {
+      "id": 12,
+      "name": "Butterfree",
+      "file": "assets/pokemon/12.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0012/Normal.png",
+      "bytes": 767,
+      "sha256": "ef86a8ae098fb1c51b11950567e5add10d6db919e87c9f795f5b52495dc3c4af"
+    },
+    {
+      "id": 16,
+      "name": "Pidgey",
+      "file": "assets/pokemon/16.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0016/Normal.png",
+      "bytes": 638,
+      "sha256": "690ae834990266ea66e4853dc95d3297f83328bf146524bdfd4c19c467cadd2f"
+    },
+    {
+      "id": 17,
+      "name": "Pidgeotto",
+      "file": "assets/pokemon/17.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0017/Normal.png",
+      "bytes": 1526,
+      "sha256": "5ea09da2e7d45f840d1dc6d608211ad46f1b84ca22e9eb277198a552ad759422"
+    },
+    {
+      "id": 18,
+      "name": "Pidgeot",
+      "file": "assets/pokemon/18.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0018/Normal.png",
+      "bytes": 1380,
+      "sha256": "dcef887c04360edb5d7687997e49212d6ea17f89627461bfd0fc9ec9e8b7befe"
+    },
+    {
+      "id": 25,
+      "name": "Pikachu",
+      "file": "assets/pokemon/25.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0025/Normal.png",
+      "bytes": 1165,
+      "sha256": "d8b4b0ca1243cc868cf628a4b3bda9f57b99d05dbf5be372c17c1f3a5c255eba"
+    },
+    {
+      "id": 26,
+      "name": "Raichu",
+      "file": "assets/pokemon/26.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0026/Normal.png",
+      "bytes": 1478,
+      "sha256": "f0f636171aab8b200c8ce47781b79e0b179325a1613f94d4667c94aaab20b903"
+    },
+    {
+      "id": 27,
+      "name": "Sandshrew",
+      "file": "assets/pokemon/27.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0027/Normal.png",
+      "bytes": 1885,
+      "sha256": "aa3ca50a4b80a3e313a632949e69d317d3ba9175e0ab12aad7cc6acc30ca05a2"
+    },
+    {
+      "id": 28,
+      "name": "Sandslash",
+      "file": "assets/pokemon/28.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0028/Normal.png",
+      "bytes": 1752,
+      "sha256": "4d027527e77e1fa52afa57eb62dc665a91572a725ae48fdc62297a44200bc0ee"
+    },
+    {
+      "id": 43,
+      "name": "Oddish",
+      "file": "assets/pokemon/43.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0043/Normal.png",
+      "bytes": 1384,
+      "sha256": "3ef0142b454020481f3ee30961dff59a7c93d41198db26d77fd7831e4a1e3669"
+    },
+    {
+      "id": 44,
+      "name": "Gloom",
+      "file": "assets/pokemon/44.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0044/Normal.png",
+      "bytes": 1595,
+      "sha256": "3d73de0b4b00da9f7cd41856977ab6cec25d18c4a565ec2234f2cfa8b6924e41"
+    },
+    {
+      "id": 45,
+      "name": "Vileplume",
+      "file": "assets/pokemon/45.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0045/Normal.png",
+      "bytes": 636,
+      "sha256": "62d6195bbc92b0944896b0e270fe6fc842f9841ac113caffb2c94d2d6883b362"
+    },
+    {
+      "id": 50,
+      "name": "Diglett",
+      "file": "assets/pokemon/50.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0050/Normal.png",
+      "bytes": 1020,
+      "sha256": "aa3614b0db6ac2ba608a819f222fd2fe8333064b437066fce2c2508229df81cb"
+    },
+    {
+      "id": 51,
+      "name": "Dugtrio",
+      "file": "assets/pokemon/51.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0051/Normal.png",
+      "bytes": 1147,
+      "sha256": "a7f19ce2c5fa14f4cd70609ae71602021e7aba6a3bb4a0502d82b8603380294e"
+    },
+    {
+      "id": 52,
+      "name": "Meowth",
+      "file": "assets/pokemon/52.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0052/Normal.png",
+      "bytes": 1652,
+      "sha256": "43871b52d93a4fe8e91588c1baa0593c0fdfaccfd1ae7b1a3fe9faa6097212c8"
+    },
+    {
+      "id": 53,
+      "name": "Persian",
+      "file": "assets/pokemon/53.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0053/Normal.png",
+      "bytes": 1576,
+      "sha256": "91a70fed00965441a961117aea85842fc69fcae47e3c65f748368187905f0c45"
+    },
+    {
+      "id": 66,
+      "name": "Machop",
+      "file": "assets/pokemon/66.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0066/Normal.png",
+      "bytes": 1309,
+      "sha256": "d4a7c918cb5ac6c9580d0210f70faebeddc42124a7071974ed8116621f2e6669"
+    },
+    {
+      "id": 67,
+      "name": "Machoke",
+      "file": "assets/pokemon/67.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0067/Normal.png",
+      "bytes": 748,
+      "sha256": "2deec300a0ec8d3e14101581c4bd66ce0409bede031df223180f7856b220e628"
+    },
+    {
+      "id": 68,
+      "name": "Machamp",
+      "file": "assets/pokemon/68.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0068/Normal.png",
+      "bytes": 777,
+      "sha256": "bb2ad88a3cc71112a627ef1c0d2e72756b04a8c3f845baf35869a3cb112b8a29"
+    },
+    {
+      "id": 74,
+      "name": "Geodude",
+      "file": "assets/pokemon/74.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0074/Normal.png",
+      "bytes": 1773,
+      "sha256": "d9de4a1396e6ae5cd7fe2eee936c2a2ee618b1e38eafd29339f287ed04238a8f"
+    },
+    {
+      "id": 75,
+      "name": "Graveler",
+      "file": "assets/pokemon/75.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0075/Normal.png",
+      "bytes": 1877,
+      "sha256": "0400b41589439d4ef0c29ade42702bfc727d9b55fb411bfb6fd909c7b3af309c"
+    },
+    {
+      "id": 76,
+      "name": "Golem",
+      "file": "assets/pokemon/76.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0076/Normal.png",
+      "bytes": 1420,
+      "sha256": "b01989c5b3533bd0cef4b7dfd2fa3ed2e6fd99d77d718f5590765cc6f5d0fc35"
+    },
+    {
+      "id": 179,
+      "name": "Mareep",
+      "file": "assets/pokemon/179.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0179/Normal.png",
+      "bytes": 1414,
+      "sha256": "1e68c0b532a986978c7d16c0cf64277bc69d0652122d01ac0a34c3affd93b791"
+    },
+    {
+      "id": 180,
+      "name": "Flaaffy",
+      "file": "assets/pokemon/180.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0180/Normal.png",
+      "bytes": 709,
+      "sha256": "35f9600896ec7ced5240e90db969a728b106662971e6d8147fa5f3e11923d0fb"
+    },
+    {
+      "id": 181,
+      "name": "Ampharos",
+      "file": "assets/pokemon/181.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0181/Normal.png",
+      "bytes": 1385,
+      "sha256": "bf01c83cb9c4daa441015e869bcc15912592ea513197dfe2bc6cfb1b65bb3051"
+    },
+    {
+      "id": 241,
+      "name": "Miltank",
+      "file": "assets/pokemon/241.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0241/Normal.png",
+      "bytes": 1574,
+      "sha256": "4df3799ca631271f5ea35e2ec4cb9755e4640c2067de77a9bb4cdf206ec6ccba"
+    },
+    {
+      "id": 331,
+      "name": "Cacnea",
+      "file": "assets/pokemon/331.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0331/Normal.png",
+      "bytes": 1705,
+      "sha256": "aa4d04b08b73baea663d441f62e133b016800b6aed62c59ef3cca13ca459ddd3"
+    },
+    {
+      "id": 332,
+      "name": "Cacturne",
+      "file": "assets/pokemon/332.png",
+      "url": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0332/Normal.png",
+      "bytes": 1566,
+      "sha256": "77166579a0badf343323ada64fe541638bcf7583d8e8cb2f39ce7fad4b30f8a8"
+    }
+  ]
+}
